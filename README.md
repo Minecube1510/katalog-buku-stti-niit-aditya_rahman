@@ -1,5 +1,5 @@
 ---
-<h3 align="center">Tentang pembuatan Laravel</h3>
+<h3 align="center">Tentang pengalaman membuat server dengan Laravel</h3>
 
 ---
 # Pembukaan
