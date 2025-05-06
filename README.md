@@ -1,12 +1,16 @@
-# Tentang pembuatan Laravel
+---
+<h3 align="center">Tentang pembuatan Laravel</h3>
 
+---
+# Pembukaan
 Saya harus jujur disini. Ini adalah ***pertama kalinya*** saya menggunakan framework bernama **Laravel** ini. <br>
 Jadi saya merasa cukup banyak belajar tentang bagaimana cara pemakaian **Laravel** untuk bahasa pemrograman PHP ini.
 
----
-
 ### Tapi...
 Akan saya jelaskan secara *simplified*, bagaimana aluran serta dengan prosesnya.
+
+---
+# Pengerjaan
 
 ## Dashboard
 ```
@@ -42,19 +46,19 @@ Kodean
 ```
 - s.
 
-## Coming-Soon
-```
-Kodean
-```
-- s.
+---
+## Penutupan
 
-## Coming-Soon
-```
-Kodean
-```
-- s.
+- Jadi kurang lebih, sampai itu saja yang sudah saya bisa buat sistem server web-nya untuk sejauh ini. <br>
+Saya benar-benar cukup menyesal, karena tidak bisa untuk menyempurnakan bahkan menyelesaikannya, secara keseluruhan.
+
+- Tetapi dari tes ini, setidaknya saya sudah benar-benar sedikit mempelajari tentang apa itu sistem framework Laravel, beserta juga dengan dasar-dasarnya (meski memang sangat sedikit yang saya pahami seperti yang diketahui. Karena benar-benar *pemula* pada Laravel ini), beserta cara penerapannya juga, yang tidak saya pernah sangka-sangka caranya.
+
+- Jadi untuk tes ini, saya ingin mengucapkan terima kasih kepada HRD, yang telah membuat saya mempelajari suatu hal, yakni **Laravel**.
 
 ---
 
 > Written By: <br>
 > **Aditya Rahman**
+
+---
