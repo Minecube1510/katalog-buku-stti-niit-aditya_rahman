@@ -1,5 +1,9 @@
 ---
-<h3 align="center">Tentang pengalaman membuat server dengan Laravel</h3>
+<h1 align="center">Tentang pengalaman membuat server dengan Laravel</h1>
+<p align="center"><i>
+  Hanya berisi tentang bagaimana pengerjaan saya pertama kali menggunakan Laravel. <br>
+  Jadi tidak banyak yang bisa diharapkan dari sini.
+</i></p>
 
 ---
 # Pembukaan
