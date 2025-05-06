@@ -9,8 +9,11 @@ Jadi saya merasa cukup banyak belajar tentang bagaimana cara pemakaian **Laravel
 Akan saya jelaskan secara *simplified*, bagaimana aluran serta dengan prosesnya.
 
 ## Dashboard
-- Hanya dengan '*localhost/katalog-buku-stti-niit-AdityaRahman*', maka sudah bisa masuk ke bagian dasbor-nya secara langsung.
-- Pada dasbor, *Navbar*-nya pada kiri akan otomatis 'Guest' (alias belum daftar atau login sama sekali. (Literally, baru pertama kali masuk) <br>
+```
+localhost/katalog-buku-stti-niit-AdityaRahman
+```
+- Hanya dengan '[*linking begini*](localhost/katalog-buku-stti-niit-AdityaRahman)', maka sudah bisa masuk ke bagian dasbor-nya secara langsung.
+- Pada dasbor, *Navbar*-nya pada kiri akan otomatis 'Guest' (alias belum daftar atau login sama sekali. (Literally, baru pertama kali masuk)
 - Maka untuk masuk, cukup ke **Login** untuk masuk (ataupun **Sign Up** untuk membuat akun), maka setelahnya baru lah akun-nya bisa ditampilkan.
 
 > Jadi untuk NavBar ini, ada 3:
@@ -19,15 +22,24 @@ Akan saya jelaskan secara *simplified*, bagaimana aluran serta dengan prosesnya.
 > - **Tombol 'Sign Up'**: Tombol ini dan Tombol **Login**, bersamaan ada di kanan. Tombol ini mengarah ke halaman '**register**'.
 
 ## Coming-Soon
+```
+Kodean
+```
 - s.
 
 ## Coming-Soon
+```
+Kodean
+```
 - s.
 
 ## Coming-Soon
+```
+Kodean
+```
 - s.
 
 ---
 
 > Written By: <br>
-- **Aditya Rahman**
+> **Aditya Rahman**
