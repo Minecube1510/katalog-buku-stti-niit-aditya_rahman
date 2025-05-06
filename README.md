@@ -13,18 +13,25 @@ Akan saya jelaskan secara *simplified*, bagaimana aluran serta dengan prosesnya.
 Linking: localhost/katalog-buku-stti-niit-AdityaRahman
 
 [File-file 'resource', pada 'views']
-- Halaman: dashboard.blade.php
 
-- Hiasan:
-layouts/profil_extend.blade.php (Alternatif Manual CSS untuk halaman dasbor-nya, dashboard)
-layouts/heading.blade.php (Kostumisasi NavBar milik sendiri)
-layouts/dashboard_style.blade.php (Kostumisasi lebih NavBar, terutama nama dan tombol-tombol)
+[Halaman Utama]:
+dashboard.blade.php
+
+[Hiasan]:
+- layouts/profil_extend.blade.php
+Alternatif Manual CSS untuk halaman dasbor-nya, 'dashboard'.
+
+- layouts/heading.blade.php
+Kostumisasi NavBar milik sendiri.
+
+- layouts/dashboard_style.blade.php
+Kostumisasi lebih NavBar, terutama nama dan tombol-tombol.
 ```
 - Hanya dengan '*link seperti di atas*', maka sudah bisa masuk ke bagian dasbor-nya secara langsung.
 - Pada dasbor, *Navbar*-nya pada kiri akan otomatis 'Guest' (alias belum daftar atau login sama sekali. (Literally, baru pertama kali masuk)
 - Maka untuk masuk, cukup ke **Login** untuk masuk (ataupun **Sign Up** untuk membuat akun), maka setelahnya baru lah akun-nya bisa ditampilkan.
 
-> Jadi untuk NavBar ini, ada 3:
+> Jadi untuk NavBar ini, ada **3** *komponen utama*:
 > - **Profil**: Ini berada di kiri, bisa di tekan untuk pergi ke halaman Profil (kecuali untuk yang masih **Guest**, itu belum terdaftar).
 > - **Tombol 'Login'**: Tombol ini dan Tombol **Sign Up**, bersamaan ada di kanan. Tombol ini mengarah ke halaman '**login**'.
 > - **Tombol 'Sign Up'**: Tombol ini dan Tombol **Login**, bersamaan ada di kanan. Tombol ini mengarah ke halaman '**register**'.
