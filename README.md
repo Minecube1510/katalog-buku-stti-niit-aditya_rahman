@@ -29,5 +29,5 @@ Akan saya jelaskan secara *simplified*, bagaimana aluran serta dengan prosesnya.
 
 ---
 
-Written By: <br>
-**Aditya Rahman**
+> Written By: <br>
+- **Aditya Rahman**
