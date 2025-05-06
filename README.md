@@ -3,10 +3,10 @@
 
 ---
 # Pembukaan
-Saya harus jujur disini. Ini adalah ***pertama kalinya*** saya menggunakan framework bernama **Laravel** ini. <br>
-Jadi saya merasa cukup banyak belajar tentang bagaimana cara pemakaian **Laravel** untuk bahasa pemrograman PHP ini.
+Saya harus jujur disini. Bagi saya, tes ini merupakan ***pertama kalinya*** saya dalam menggunakan framework PHP bernama **Laravel** ini. <br>
+Jadi, saya akan merasa cukup banyak belajar tentang bagaimana cara pemakaian **Laravel** untuk bahasa pemrograman PHP ini.
 
-### Tapi...
+### Tapi, meski saya baru pertama kali mempelajari Laravel...
 Akan saya jelaskan secara *simplified*, bagaimana aluran serta dengan prosesnya.
 
 ---
