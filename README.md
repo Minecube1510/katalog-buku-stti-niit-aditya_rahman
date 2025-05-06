@@ -12,7 +12,7 @@ Akan saya jelaskan secara *simplified*, bagaimana aluran serta dengan prosesnya.
 ```
 localhost/katalog-buku-stti-niit-AdityaRahman
 ```
-- Hanya dengan '[*linking begini*](localhost/katalog-buku-stti-niit-AdityaRahman)', maka sudah bisa masuk ke bagian dasbor-nya secara langsung.
+- Hanya dengan '*link seperti di atas*', maka sudah bisa masuk ke bagian dasbor-nya secara langsung.
 - Pada dasbor, *Navbar*-nya pada kiri akan otomatis 'Guest' (alias belum daftar atau login sama sekali. (Literally, baru pertama kali masuk)
 - Maka untuk masuk, cukup ke **Login** untuk masuk (ataupun **Sign Up** untuk membuat akun), maka setelahnya baru lah akun-nya bisa ditampilkan.
 
