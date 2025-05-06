@@ -10,7 +10,15 @@ Akan saya jelaskan secara *simplified*, bagaimana aluran serta dengan prosesnya.
 
 ## Dashboard
 ```
-localhost/katalog-buku-stti-niit-AdityaRahman
+Linking: localhost/katalog-buku-stti-niit-AdityaRahman
+
+[File-file 'resource', pada 'views']
+- Halaman: dashboard.blade.php
+
+- Hiasan:
+layouts/profil_extend.blade.php (Alternatif Manual CSS untuk halaman dasbor-nya, dashboard)
+layouts/heading.blade.php (Kostumisasi NavBar milik sendiri)
+layouts/dashboard_style.blade.php (Kostumisasi lebih NavBar, terutama nama dan tombol-tombol)
 ```
 - Hanya dengan '*link seperti di atas*', maka sudah bisa masuk ke bagian dasbor-nya secara langsung.
 - Pada dasbor, *Navbar*-nya pada kiri akan otomatis 'Guest' (alias belum daftar atau login sama sekali. (Literally, baru pertama kali masuk)
