@@ -1,0 +1,5 @@
+[Admin]
+
+Name: s
+Email: .com
+Password: s
